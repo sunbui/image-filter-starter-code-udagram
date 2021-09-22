@@ -1,4 +1,4 @@
-# Udagram Image Filtering Microservice
+# Image Filtering Microservice
 
 ## Tasks
 
